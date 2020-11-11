@@ -1,0 +1,36 @@
+textarea {
+   font-family: Courier, sans-serif;
+}
+.large-textarea textarea {
+   font-family: Courier, sans-serif;
+   height: 100em;
+   width: 500px;
+}
+h1{
+  font-size: 250%;
+  text-align: center;
+  color: #201858;
+
+}
+.campodeshabilitado{
+
+  pointer-events: none;
+  background: #dddddd;
+}
+
+.h1css{
+  color:#403075;
+  font-size: 250%;
+  text-align: left;
+}
+.h2css{
+  color:#201858;
+  font-size: 150%;
+  text-align: left;
+}
+.estilo{
+  width: 22%;
+}
+.pstilo{
+  color:3A00F3;
+}
